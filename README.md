@@ -13,7 +13,7 @@
   <img
     width="100%"
     src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:020617,45:0F172A,100:0284C7&text=Jose%20Luis%20Rodriguez%20Navarro&fontColor=F8FAFC&fontSize=34&fontAlignY=35&desc=Full%20Stack%20Developer%20%E2%80%A2%20Networks%20%E2%80%A2%20Systems%20%E2%80%A2%20Cybersecurity&descAlignY=58&descSize=16&animation=fadeIn"
-    alt="Jose Luis Rodriguez Navarro"
+    alt="Jose Luis RN"
   />
 
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -47,7 +47,7 @@
    <img
     src="./presentacion.gif"
     width="100%"
-    alt="Presentación visual de Jose Luis Rodriguez Navarro"
+    alt="mi gif, sin robar porfa."
   />
 
 </div>
