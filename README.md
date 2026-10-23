@@ -46,7 +46,7 @@
   <!-- Contador de visitas -->
    <img
     src="./presentacion.gif"
-    width="100%"
+    width="700"
     alt="mi gif, sin robar porfa."
   />
 
