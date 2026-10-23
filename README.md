@@ -1,8 +1,8 @@
 <!--
 ══════════════════════════════════════════════════════════════════════════════
   GitHub Profile README
-  Author: Juan Dominid Muñoz Eslava
-  Username: DominidM
+  Author: Jose Luis Rodriguez Navarro
+  Username: Josepfazt
 ══════════════════════════════════════════════════════════════════════════════
 -->
 
