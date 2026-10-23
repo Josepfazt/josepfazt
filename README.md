@@ -39,12 +39,6 @@
   />
 </a>
 
-<a href="https://www.linkedin.com/in/jose-luis-rodr%C3%ADguez-navarro-43981b211" target="_blank">
-  <img
-    src="https://shields.io"
-    alt="LinkedIn" />
-</a>
-
 <br><br>
 
 <img
@@ -930,13 +924,6 @@ Estoy abierto a:
   <!-- Enlace a Correo (Gmail) -->
   <a href="mailto:jazzRN1231@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Contact_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-
-  <!-- Enlace a LinkedIn -->
-  <a href="https://www.linkedin.com/in/jose-luis-rodr%C3%ADguez-navarro-43981b211" target="_blank">
-  <img
-    src="https://shields.io"
-    alt="LinkedIn" />
   </a>
 
 </div>
