@@ -46,7 +46,7 @@
   <!-- Contador de visitas -->
    <img
     src="./presentacion.gif"
-    width="700"
+    width="100%"
     alt="Presentación visual de Jose Luis Rodriguez Navarro"
   />
 
