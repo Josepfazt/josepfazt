@@ -39,11 +39,8 @@
   />
 </a>
 
-<a href="www.linkedin.com/in/jose-luis-rodríguez-navarro-43981b211">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  />
+<a href="[https://linkedin.com](https://www.linkedin.com/in/jose-luis-rodr%C3%ADguez-navarro-43981b211)" target="_blank">
+  <img src="https://shields.io" alt="LinkedIn" />
 </a>
 
 <br><br>
@@ -934,8 +931,8 @@ Estoy abierto a:
   </a>
 
   <!-- Enlace a LinkedIn -->
-  <a href="www.linkedin.com/in/jose-luis-rodríguez-navarro-43981b211" target="_blank">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="[https://linkedin.com](https://www.linkedin.com/in/jose-luis-rodr%C3%ADguez-navarro-43981b211)" target="_blank">
+  <img src="https://shields.io" alt="LinkedIn" />
   </a>
 
 </div>
