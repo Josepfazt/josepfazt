@@ -1,44 +1,46 @@
 <!--
-══════════════════════════════════════════════════════════════════════════════
+===============================================================================
   GitHub Profile README
-  Author: Jose Luis Rodriguez Navarro
-  Username: Josepfazt
-══════════════════════════════════════════════════════════════════════════════
+  Name: Jose Luis Rodriguez Navarro
+  GitHub: Josepfazt
+===============================================================================
 -->
 
 <div align="center">
 
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:020617,45:0F172A,100:0284C7&text=Juan%20Dominid%20Mu%C3%B1oz%20Eslava&fontColor=F8FAFC&fontSize=36&fontAlignY=35&desc=Software%20Architecture%20%E2%80%A2%20Full%20Stack%20Development%20%E2%80%A2%20Technology&descAlignY=58&descSize=16&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:020617,45:0F172A,100:0284C7&text=Jose%20Luis%20Rodriguez%20Navarro&fontColor=F8FAFC&fontSize=34&fontAlignY=35&desc=Software%20Developer%20%E2%80%A2%20Technology%20Enthusiast%20%E2%80%A2%20Continuous%20Learner&descAlignY=57&descSize=15&animation=fadeIn"
+  alt="Jose Luis Rodriguez Navarro"
 />
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=850&height=70&lines=Co-Founder+%40+Solvegrades+Technology;Software+Architecture+%26+Full+Stack+Development;ERPs+%7C+Microservices+%7C+Cloud+Solutions;Spring+Boot+%7C+NestJS+%7C+Angular;Hexagonal+Architecture+%7C+Clean+Architecture;Building+technology+with+real-world+impact"
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&random=false&width=850&height=70&lines=Hi%2C+I'm+Jose+Luis+Rodriguez+Navarro;Software+Developer+%7C+Technology+Enthusiast;Building+modern+software+solutions;Java+%7C+Web+Development+%7C+Git;Learning%2C+building+and+improving+every+day"
     alt="Typing introduction"
   />
 </a>
 
 <br>
 
-<a href="https://dominidm.github.io/">
-  <img src="https://img.shields.io/badge/Portfolio-Explore_my_work-020617?style=for-the-badge&logo=githubpages&logoColor=38BDF8" alt="Portfolio">
+<a href="https://github.com/Josepfazt">
+  <img
+    src="https://img.shields.io/badge/GitHub-Josepfazt-020617?style=for-the-badge&logo=github&logoColor=38BDF8"
+    alt="GitHub"
+  />
 </a>
-<a href="https://solvegrades.com/nosotros/">
-  <img src="https://img.shields.io/badge/Solvegrades-Co--Founder-4C1D95?style=for-the-badge&logo=rocket&logoColor=white" alt="Solvegrades">
-</a>
-<a href="https://www.linkedin.com/in/juan-dominid-mu%C3%B1oz-eslava-50b68828a/">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="https://leetcode.com/u/Dominid/">
-  <img src="https://img.shields.io/badge/LeetCode-Solve_with_me-FFA116?style=for-the-badge&logo=leetcode&logoColor=111827" alt="LeetCode">
+
+<a href="mailto:TU_CORREO_AQUI">
+  <img
+    src="https://img.shields.io/badge/Email-Contact_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email"
+  />
 </a>
 
 <br><br>
 
 <img
-  src="https://komarev.com/ghpvc/?username=DominidM&label=Profile+views&color=0284C7&style=flat"
+  src="https://komarev.com/ghpvc/?username=Josepfazt&label=Profile%20views&color=0284C7&style=flat"
   alt="Profile views"
 />
 
@@ -46,191 +48,170 @@
 
 ---
 
-## `> whoami`
+## 👨‍💻 About me
 
 ```yaml
-name: Juan Dominid Muñoz Eslava
-role: Co-Founder & Full Stack Developer
-company: Solvegrades Technology
+name: Jose Luis Rodriguez Navarro
+username: Josepfazt
+role: Software Developer
+location: Lima, Peru
+
 focus:
+  - Software Development
+  - Object-Oriented Programming
+  - Web Applications
   - Software Architecture
-  - Enterprise Resource Planning
-  - Microservices
-  - Cloud-native Applications
-  - Real-time Systems
-education:
-  degree: Computer Systems Engineering
-  institution: UPN
-  status: Final academic stage
-currently_building:
-  - Scalable business platforms
-  - Citizen-impact technology
-  - Environmental monitoring solutions
+  - Continuous Learning
+
+currently:
+  learning:
+    - Java
+    - Object-Oriented Programming
+    - Git and GitHub
+    - Web Development
+
+  building:
+    - Academic projects
+    - Personal applications
+    - Software development exercises
+
+goals:
+  - Build scalable software solutions
+  - Improve software architecture skills
+  - Contribute to open-source projects
+  - Grow as a professional developer
 ```
 
-Soy desarrollador Full Stack orientado a la **arquitectura de software**, con experiencia diseñando soluciones empresariales desde cero y convirtiendo necesidades complejas en sistemas seguros, escalables y mantenibles.
+Soy **José Luis Rodríguez Navarro**, desarrollador de software apasionado por la tecnología, la programación y la creación de soluciones digitales.
 
-Como **Co-Founder de Solvegrades Technology**, participo en el análisis, arquitectura y desarrollo de plataformas a medida, especialmente ERPs, sistemas de logística, aplicaciones cloud y servicios con comunicación en tiempo real.
+Actualmente me encuentro fortaleciendo mis conocimientos en desarrollo de software, programación orientada a objetos, aplicaciones web y buenas prácticas de ingeniería.
 
-- Arquitectura de sistemas con enfoque **hexagonal y clean architecture**.
-- Diseño de **ERPs para importación, logística y gestión empresarial**.
-- Integración de autenticación y autorización mediante **JWT + RBAC**.
-- Implementación de comunicación en tiempo real con **WebSockets**.
-- Integración de servicios relacionados con **facturación electrónica SUNAT**.
-- Diseño de APIs, microservicios y sistemas desplegados en infraestructura cloud.
-- Interés en proyectos con impacto **educativo, social y ambiental**.
+Me interesa entender no solamente cómo escribir código, sino también cómo organizarlo, documentarlo y convertirlo en software mantenible.
+
+- 💻 Desarrollo proyectos académicos y personales.
+- ☕ Actualmente trabajo y practico principalmente con **Java**.
+- 🧠 Me interesa la arquitectura y el diseño de software.
+- 🔧 Busco mejorar continuamente la calidad de mi código.
+- 🌱 Estoy aprendiendo nuevas herramientas y tecnologías.
+- 🤝 Estoy abierto a colaborar en proyectos tecnológicos.
+- 🚀 Mi objetivo es construir soluciones que generen un impacto real.
 
 ---
 
-## 🧭 Engineering mindset
+## 🧠 Developer mindset
 
 ```text
 Understand the problem
         ↓
-Model the business domain
+Plan the solution
         ↓
-Design clear boundaries
+Design the structure
         ↓
-Build secure and testable components
+Write clean code
         ↓
-Measure, improve and scale
+Test and improve
+        ↓
+Document and deliver
 ```
 
-> No desarrollo solamente funcionalidades. Diseño sistemas capaces de evolucionar sin convertir cada nuevo requerimiento en un problema.
+> El objetivo no es solamente hacer que el código funcione. También debe ser claro, mantenible y capaz de evolucionar.
 
 ---
 
-## 🚀 Selected projects
+## 🎯 Current objectives
 
-### 🌐 ComuniRed
-
-Una plataforma de participación ciudadana diseñada para registrar reportes comunitarios y facilitar que las entidades municipales puedan realizar seguimiento, gestionar evidencias y comunicar soluciones.
-
-```yaml
-architecture:
-  backend: Spring Boot
-  frontend: Angular
-  database: MongoDB Atlas
-  api: GraphQL
-  realtime: WebSockets
-  cloud: Azure
-  edge_and_security: Cloudflare
+```text
+[████████████████░░░░] Java
+[██████████████░░░░░░] Object-Oriented Programming
+[████████████░░░░░░░░] Git and GitHub
+[██████████░░░░░░░░░░] Web Development
+[████████░░░░░░░░░░░░] Software Architecture
 ```
 
-**Principales retos abordados:**
+Actualmente estoy enfocado en:
 
-- Comunicación en tiempo real.
-- Seguimiento del ciclo de vida de los reportes.
-- Organización de información georreferenciada.
-- Separación de responsabilidades entre ciudadanos y entidades.
-- Diseño de infraestructura preparada para crecimiento.
+- Fortalecer mis fundamentos de programación.
+- Aplicar correctamente la programación orientada a objetos.
+- Mejorar la estructura y legibilidad de mis proyectos.
+- Aprender patrones y buenas prácticas de desarrollo.
+- Crear proyectos que demuestren mis habilidades.
+- Documentar correctamente mi proceso de aprendizaje.
+- Mejorar el uso de Git y GitHub.
 
 ---
 
-### 🌊 OceanEyes
+## 🛠️ Technology stack
 
-**Proyecto participante en Hult Prize UPN 2026**
-
-Plataforma tecnológica orientada a la protección de ecosistemas marinos y al monitoreo de actividades relacionadas con la pesca ilegal.
-
-```yaml
-ecosystem:
-  mobile_application:
-    technology: Flutter
-    capabilities:
-      - GPS
-      - Citizen reports
-      - Field evidence
-
-  monitoring_devices:
-    capabilities:
-      - Water quality sensors
-      - Environmental telemetry
-
-  web_dashboard:
-    technology: Angular
-    capabilities:
-      - Georeferenced visualization
-      - Incident monitoring
-      - Environmental data analysis
-```
-
-El objetivo es conectar aplicaciones móviles, dispositivos de monitoreo y dashboards web en un ecosistema tecnológico que permita transformar datos ambientales en acciones oportunas.
-
----
-
-## 🏗️ Architecture toolbox
+### Languages
 
 <div align="center">
-
-```mermaid
-flowchart LR
-    C[Clients] --> G[API Gateway]
-    G --> A[Authentication]
-    G --> S1[Business Service]
-    G --> S2[Notification Service]
-    G --> S3[Reporting Service]
-
-    S1 --> DB1[(SQL Database)]
-    S2 --> MQ[(RabbitMQ)]
-    S3 --> DB2[(MongoDB)]
-
-    MQ --> WS[WebSocket Gateway]
-    WS --> C
-```
-
-</div>
-
-Mi enfoque arquitectónico suele considerar:
-
-- Separación entre dominio, aplicación e infraestructura.
-- Límites claros entre módulos y servicios.
-- Seguridad basada en roles y permisos.
-- Eventos y mensajería para procesos desacoplados.
-- Observabilidad y control de errores.
-- Estrategias de despliegue con contenedores.
-- Diseño preparado para evolución progresiva.
-
----
-
-## 🧰 Technology stack
-
-### Backend & APIs
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=spring,nestjs,nodejs,express,java,ts,js&theme=dark" alt="Backend technologies">
-
-</div>
-
-### Frontend & Mobile
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=angular,nextjs,react,flutter,html,css&theme=dark" alt="Frontend technologies">
-
-</div>
-
-### Databases & Messaging
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,rabbitmq,supabase&theme=dark" alt="Database technologies">
-
-<br>
 
 <img
-  src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"
-  alt="SQL Server"
+  src="https://skillicons.dev/icons?i=java,js,html,css&theme=dark"
+  alt="Programming languages"
 />
 
 </div>
 
-### Cloud, DevOps & Tools
+### Development tools
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=azure,docker,cloudflare,git,github,postman,linux,vscode&theme=dark" alt="Cloud and development tools">
+<img
+  src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman&theme=dark"
+  alt="Development tools"
+/>
+
+</div>
+
+### Operating systems and environments
+
+<div align="center">
+
+<img
+  src="https://skillicons.dev/icons?i=linux,windows&theme=dark"
+  alt="Operating systems"
+/>
+
+</div>
+
+---
+
+## 🧩 Skills in development
+
+<div align="center">
+
+<img
+  src="https://img.shields.io/badge/Java-Object--Oriented_Programming-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"
+  alt="Java"
+/>
+
+<img
+  src="https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white"
+  alt="Git"
+/>
+
+<img
+  src="https://img.shields.io/badge/GitHub-Code_Collaboration-181717?style=for-the-badge&logo=github&logoColor=white"
+  alt="GitHub"
+/>
+
+<br>
+
+<img
+  src="https://img.shields.io/badge/HTML5-Web_Structure-E34F26?style=for-the-badge&logo=html5&logoColor=white"
+  alt="HTML5"
+/>
+
+<img
+  src="https://img.shields.io/badge/CSS3-Web_Design-1572B6?style=for-the-badge&logo=css3&logoColor=white"
+  alt="CSS3"
+/>
+
+<img
+  src="https://img.shields.io/badge/JavaScript-Web_Logic-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
+  alt="JavaScript"
+/>
 
 </div>
 
@@ -238,71 +219,115 @@ Mi enfoque arquitectónico suele considerar:
 
 ## 🧬 Developer profile
 
-```typescript
-type Architecture =
-  | "Hexagonal Architecture"
-  | "Clean Architecture"
-  | "Modular Monolith"
-  | "Microservices";
+```java
+public final class JoseLuis {
 
-interface DeveloperProfile {
-  role: string[];
-  architecture: Architecture[];
-  backend: string[];
-  frontend: string[];
-  infrastructure: string[];
-  principles: string[];
-}
+    private final String name;
+    private final String username;
+    private final String role;
+    private final String[] interests;
+    private final String[] currentGoals;
 
-const dominid: DeveloperProfile = {
-  role: [
-    "Co-Founder",
-    "Software Architect",
-    "Full Stack Developer"
-  ],
+    public JoseLuis() {
+        this.name = "Jose Luis Rodriguez Navarro";
+        this.username = "Josepfazt";
+        this.role = "Software Developer";
 
-  architecture: [
-    "Hexagonal Architecture",
-    "Clean Architecture",
-    "Modular Monolith",
-    "Microservices"
-  ],
+        this.interests = new String[]{
+            "Software Development",
+            "Object-Oriented Programming",
+            "Web Development",
+            "Software Architecture",
+            "Clean Code"
+        };
 
-  backend: [
-    "Spring Boot",
-    "NestJS",
-    "Express",
-    "GraphQL",
-    "WebSockets"
-  ],
+        this.currentGoals = new String[]{
+            "Improve my programming skills",
+            "Build complete software projects",
+            "Learn software architecture",
+            "Contribute to open-source projects",
+            "Grow as a professional developer"
+        };
+    }
 
-  frontend: [
-    "Angular",
-    "Next.js",
-    "Flutter"
-  ],
+    public String buildSolution(String problem) {
+        return String.format(
+            "Analyzing '%s', designing the solution and building clean code.",
+            problem
+        );
+    }
 
-  infrastructure: [
-    "Docker",
-    "Azure",
-    "Cloudflare",
-    "RabbitMQ",
-    "Supabase"
-  ],
+    public void keepLearning() {
+        System.out.println(
+            "Learning, building and improving every day."
+        );
+    }
 
-  principles: [
-    "Security by design",
-    "Maintainability",
-    "Clear boundaries",
-    "Business-oriented software",
-    "Continuous improvement"
-  ]
-};
+    public String getName() {
+        return name;
+    }
 
-function buildSolution(problem: string): string {
-  return `Analyze ${problem}, model the domain, design the architecture and ship value.`;
+    public String getUsername() {
+        return username;
+    }
+
+    public String getRole() {
+        return role;
+    }
 }
 ```
+
+---
+
+## 🏗️ How I approach development
+
+```mermaid
+flowchart LR
+    A[Idea] --> B[Analysis]
+    B --> C[Requirements]
+    C --> D[Design]
+    D --> E[Development]
+    E --> F[Testing]
+    F --> G[Documentation]
+    G --> H[Deployment]
+    H --> I[Continuous improvement]
+```
+
+Mi proceso de desarrollo busca mantener una estructura clara:
+
+1. Comprender el problema antes de escribir código.
+2. Identificar los requisitos principales.
+3. Dividir el problema en componentes más pequeños.
+4. Diseñar una solución comprensible.
+5. Escribir código limpio y organizado.
+6. Probar diferentes escenarios.
+7. Documentar las decisiones importantes.
+8. Mejorar la solución progresivamente.
+
+---
+
+## 📂 Featured projects
+
+### ☕ Object-Oriented Programming Practice
+
+Repositorio dedicado a ejercicios y prácticas de programación orientada a objetos utilizando Java.
+
+<a href="https://github.com/Josepfazt/SS9">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=Josepfazt&repo=SS9&theme=github_dark&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&bg_color=0D1117"
+    alt="SS9 repository"
+  />
+</a>
+
+**Conocimientos practicados:**
+
+- Clases y objetos.
+- Atributos y métodos.
+- Encapsulamiento.
+- Constructores.
+- Organización de código.
+- Fundamentos de Java.
+- Programación orientada a objetos.
 
 ---
 
@@ -311,27 +336,49 @@ function buildSolution(problem: string): string {
 <div align="center">
 
 <img
-  height="180"
-  src="https://github-readme-stats.vercel.app/api?username=DominidM&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&bg_color=0D1117"
-  alt="GitHub statistics"
+  width="49%"
+  src="https://github-readme-stats.vercel.app/api?username=Josepfazt&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&bg_color=0D1117"
+  alt="Josepfazt GitHub statistics"
 />
 
 <img
-  height="180"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DominidM&layout=compact&hide_border=true&langs_count=8&theme=github_dark&title_color=38BDF8&text_color=CBD5E1&bg_color=0D1117"
+  width="41%"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josepfazt&layout=compact&hide_border=true&langs_count=8&theme=github_dark&title_color=38BDF8&text_color=CBD5E1&bg_color=0D1117"
   alt="Most used languages"
 />
 
 </div>
 
-> Las estadísticas de lenguajes representan principalmente la composición de los repositorios públicos y no determinan por sí solas el nivel de dominio técnico.
+> Las estadísticas de lenguajes representan la composición de los repositorios públicos y no determinan por sí solas el nivel de conocimiento de una tecnología.
+
+<br>
 
 <div align="center">
 
 <img
   width="95%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DominidM&theme=github_dark"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Josepfazt&theme=github_dark"
   alt="GitHub profile summary"
+/>
+
+</div>
+
+---
+
+## 📈 Activity overview
+
+<div align="center">
+
+<img
+  width="49%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Josepfazt&theme=github_dark"
+  alt="GitHub statistics card"
+/>
+
+<img
+  width="49%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Josepfazt&theme=github_dark&utcOffset=-5"
+  alt="Productive time"
 />
 
 </div>
@@ -343,69 +390,112 @@ function buildSolution(problem: string): string {
 <div align="center">
 
 <img
-  src="https://raw.githubusercontent.com/DominidM/DominidM/output/github-contribution-grid-snake-dark.svg"
+  src="https://raw.githubusercontent.com/Josepfazt/Josepfazt/output/github-contribution-grid-snake-dark.svg"
   alt="Contribution snake animation"
 />
 
 </div>
 
-> Si la animación todavía no aparece, debes instalar el workflow incluido más abajo.
+> La animación aparecerá después de instalar y ejecutar el workflow incluido al final de esta guía.
 
 ---
 
-## 🎯 Current roadmap
+## 🗺️ Learning roadmap
 
-```text
-[████████████████░░░░] Software Architecture
-[███████████████░░░░░] Distributed Systems
-[██████████████░░░░░░] Cloud Engineering
-[████████████░░░░░░░░] DevOps & Observability
-[██████████░░░░░░░░░░] Artificial Intelligence Integration
+```mermaid
+mindmap
+  root((Jose Luis))
+    Programming
+      Java
+      Object-Oriented Programming
+      Algorithms
+      Data Structures
+    Web Development
+      HTML
+      CSS
+      JavaScript
+      APIs
+    Software Engineering
+      Clean Code
+      Design Patterns
+      Testing
+      Documentation
+    Tools
+      Git
+      GitHub
+      Linux
+      Postman
+    Future
+      Backend Development
+      Databases
+      Cloud
+      Software Architecture
 ```
 
-Actualmente estoy profundizando en:
+---
 
-- Patrones para sistemas distribuidos.
-- Observabilidad y monitoreo de aplicaciones.
-- Arquitecturas orientadas a eventos.
-- Automatización de despliegues.
-- Optimización de rendimiento.
-- Integración responsable de inteligencia artificial en productos de software.
+## 📚 Currently learning
+
+```javascript
+const currentLearning = {
+    programming: [
+        "Java",
+        "Object-Oriented Programming",
+        "Algorithms",
+        "Data Structures"
+    ],
+
+    webDevelopment: [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "REST APIs"
+    ],
+
+    softwareEngineering: [
+        "Clean Code",
+        "Design Patterns",
+        "Software Architecture",
+        "Testing"
+    ],
+
+    tools: [
+        "Git",
+        "GitHub",
+        "Linux",
+        "Postman"
+    ]
+};
+
+const nextGoal = () => {
+    return "Transform knowledge into complete software projects.";
+};
+
+console.log(nextGoal());
+```
 
 ---
 
-## 🤝 Let's build something meaningful
+## 🤝 Let's connect
 
-Estoy abierto a colaborar en:
+Estoy abierto a:
 
-- Plataformas educativas.
-- Sistemas empresariales y ERPs.
-- Aplicaciones de impacto ciudadano.
-- Tecnología para sostenibilidad y medioambiente.
-- Arquitecturas backend y APIs escalables.
-- Proyectos open source.
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/juan-dominid-mu%C3%B1oz-eslava-50b68828a/">
-  <img src="https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Contact on LinkedIn">
-</a>
-
-<a href="https://dominidm.github.io/">
-  <img src="https://img.shields.io/badge/View_my_portfolio-020617?style=for-the-badge&logo=githubpages&logoColor=38BDF8" alt="View portfolio">
-</a>
-
-</div>
-
-<br>
+- Colaborar en proyectos académicos.
+- Participar en proyectos de software.
+- Aprender junto con otros desarrolladores.
+- Intercambiar conocimientos y experiencias.
+- Contribuir a proyectos open source.
+- Conocer nuevas oportunidades tecnológicas.
 
 <div align="center">
 
-### “Architecture is not about adding complexity. It is about controlling it.”
+<a href="https://github.com/Josepfazt">
+  <img
+    src="https://img.shields.io/badge/Follow_me_on_GitHub-020617?style=for-the-badge&logo=github&logoColor=38BDF8"
+    alt="Follow on GitHub"
+  />
+</a>
 
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0284C7,55:0F172A,100:020617&section=footer"
-/>
-
-</div>
+<a href="mailto:TU_CORREO_AQUI">
+  <img
+    src="https://img.shields.io/badge/Contact
