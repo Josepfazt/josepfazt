@@ -604,11 +604,9 @@ flowchart TB
 
 <div align="center">
 
-https://img.shields.io/badge/Cybersecurity-Security_Mindset-DC2626?style=for-the-badge&logo=hackthebox&logoColor=white
-
-https://img.shields.io/badge/Server_Hardening-Defense_in_Depth-7F1D1D?style=for-the-badge&logo=linux&logoColor=white
-
-https://img.shields.io/badge/Access_Control-Least_Privilege-B91C1C?style=for-the-badge&logo=auth0&logoColor=white
+  <img src="https://img.shields.io/badge/Cybersecurity-Security_Mindset-DC2626?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Server_Hardening-Defense_in_Depth-7F1D1D?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="[https://shields.io](https://img.shields.io/badge/Access_Control-Least_Privilege-B91C1C?style=for-the-badge&logo=auth0&logoColor=white)" />
 
 </div>
 
