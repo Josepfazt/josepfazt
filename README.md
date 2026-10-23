@@ -1,23 +1,24 @@
 <!--
-===============================================================================
+==============================================================================
   GitHub Profile README
-  Name: Jose Luis Rodriguez Navarro
-  GitHub: Josepfazt
-===============================================================================
+  Nombre: Jose Luis Rodriguez Navarro
+  Usuario: Josepfazt
+  Perfil: Full Stack | Redes | Sistemas | Ciberseguridad
+==============================================================================
 -->
 
 <div align="center">
 
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:020617,45:0F172A,100:0284C7&text=Jose%20Luis%20Rodriguez%20Navarro&fontColor=F8FAFC&fontSize=34&fontAlignY=35&desc=Software%20Developer%20%E2%80%A2%20Technology%20Enthusiast%20%E2%80%A2%20Continuous%20Learner&descAlignY=57&descSize=15&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:020617,45:0F172A,100:0284C7&text=Jose%20Luis%20Rodriguez%20Navarro&fontColor=F8FAFC&fontSize=34&fontAlignY=35&desc=Full%20Stack%20Developer%20%E2%80%A2%20Networks%20%E2%80%A2%20Systems%20%E2%80%A2%20Cybersecurity&descAlignY=58&descSize=16&animation=fadeIn"
   alt="Jose Luis Rodriguez Navarro"
 />
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&random=false&width=850&height=70&lines=Hi%2C+I'm+Jose+Luis+Rodriguez+Navarro;Software+Developer+%7C+Technology+Enthusiast;Building+modern+software+solutions;Java+%7C+Web+Development+%7C+Git;Learning%2C+building+and+improving+every+day"
-    alt="Typing introduction"
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&random=false&width=900&height=70&lines=Full+Stack+Developer;MERN+%26+MEAN+Stack;Network+Infrastructure+%26+CCNA;Windows+%26+Linux+Server+Administration;Active+Directory+%7C+DNS+%7C+DHCP+%7C+IIS;Cybersecurity+%26+Systems+Management;Building+secure+and+scalable+solutions"
+    alt="Typing SVG"
   />
 </a>
 
@@ -37,6 +38,13 @@
   />
 </a>
 
+<a href="TU_LINKEDIN_AQUI">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
+</a>
+
 <br><br>
 
 <img
@@ -48,107 +56,225 @@
 
 ---
 
-## 👨‍💻 About me
+## `> whoami`
 
 ```yaml
-name: Jose Luis Rodriguez Navarro
-username: Josepfazt
-role: Software Developer
-location: Lima, Peru
+profile:
+  name: "Jose Luis Rodriguez Navarro"
+  username: "Josepfazt"
+  role: "Full Stack Developer"
+  location: "Lima, Peru"
 
-focus:
-  - Software Development
-  - Object-Oriented Programming
-  - Web Applications
-  - Software Architecture
-  - Continuous Learning
+specializations:
+  software_development:
+    - "MERN Stack"
+    - "MEAN Stack"
+    - "REST API Development"
+    - "Object-Oriented Programming"
+    - "Software Architecture"
 
-currently:
-  learning:
-    - Java
-    - Object-Oriented Programming
-    - Git and GitHub
-    - Web Development
+  network_infrastructure:
+    - "CCNA Networking Fundamentals"
+    - "Routing and Switching"
+    - "IPv4, IPv6 and Subnetting"
+    - "VLANs, NAT and ACLs"
+    - "DNS and DHCP"
 
-  building:
-    - Academic projects
-    - Personal applications
-    - Software development exercises
+  systems_administration:
+    - "Windows Server"
+    - "Linux Server"
+    - "Active Directory"
+    - "Group Policy"
+    - "IIS"
+    - "Bash and PowerShell"
 
-goals:
-  - Build scalable software solutions
-  - Improve software architecture skills
-  - Contribute to open-source projects
-  - Grow as a professional developer
+  cybersecurity:
+    - "Network Security"
+    - "Server Hardening"
+    - "Access Control"
+    - "Identity and Permissions"
+    - "Security Best Practices"
+
+mission: >
+  Build complete technology solutions, from network infrastructure
+  and server administration to secure and scalable Full Stack applications.
 ```
 
-Soy **José Luis Rodríguez Navarro**, desarrollador de software apasionado por la tecnología, la programación y la creación de soluciones digitales.
+Soy **Jose Luis Rodriguez Navarro**, programador Full Stack con conocimientos en desarrollo de aplicaciones mediante los stacks **MERN y MEAN**, infraestructura de redes, sistemas operativos, administración de servidores y fundamentos de ciberseguridad.
 
-Actualmente me encuentro fortaleciendo mis conocimientos en desarrollo de software, programación orientada a objetos, aplicaciones web y buenas prácticas de ingeniería.
+Mi perfil combina desarrollo e infraestructura. Me interesa comprender todo el recorrido de una solución tecnológica: desde el código y la base de datos hasta la red, el sistema operativo, el servidor, los permisos y la seguridad.
 
-Me interesa entender no solamente cómo escribir código, sino también cómo organizarlo, documentarlo y convertirlo en software mantenible.
-
-- 💻 Desarrollo proyectos académicos y personales.
-- ☕ Actualmente trabajo y practico principalmente con **Java**.
-- 🧠 Me interesa la arquitectura y el diseño de software.
-- 🔧 Busco mejorar continuamente la calidad de mi código.
-- 🌱 Estoy aprendiendo nuevas herramientas y tecnologías.
-- 🤝 Estoy abierto a colaborar en proyectos tecnológicos.
-- 🚀 Mi objetivo es construir soluciones que generen un impacto real.
+- 💻 Desarrollo aplicaciones Full Stack con **MERN y MEAN**.
+- 🌐 Cuento con conocimientos de redes y fundamentos de **CCNA**.
+- 🖥️ Administro entornos **Windows Server y Linux Server**.
+- 🏢 Trabajo con **Active Directory, GPO, DNS, DHCP e IIS**.
+- 🔐 Aplico fundamentos y buenas prácticas de **ciberseguridad**.
+- 🐧 Utilizo **Linux** como entorno de desarrollo y administración.
+- ⚙️ Me interesa la automatización, arquitectura y operación de sistemas.
+- 📚 Continúo fortaleciendo mis conocimientos mediante proyectos y laboratorios.
+- 🤝 Estoy abierto a colaborar en proyectos tecnológicos y de código abierto.
 
 ---
 
-## 🧠 Developer mindset
+# 🧭 Professional focus
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 💻 Software
+
+MERN y MEAN  
+Frontend y Backend  
+APIs REST  
+Bases de datos  
+Arquitectura  
+Git y GitHub  
+
+</td>
+<td align="center" width="33%">
+
+### 🌐 Infrastructure
+
+Redes y CCNA  
+Routing y Switching  
+Windows Server  
+Linux Server  
+Active Directory  
+DNS, DHCP e IIS  
+
+</td>
+<td align="center" width="33%">
+
+### 🔐 Security
+
+Network Security  
+Server Hardening  
+Access Control  
+Identity Management  
+Least Privilege  
+Security Practices  
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🧠 Engineering mindset
 
 ```text
-Understand the problem
-        ↓
-Plan the solution
-        ↓
-Design the structure
-        ↓
-Write clean code
-        ↓
-Test and improve
-        ↓
-Document and deliver
+┌──────────────────────────────────────────────────────────────┐
+│                     TECHNOLOGY SOLUTION                      │
+├────────────────────┬───────────────────┬─────────────────────┤
+│    APPLICATION     │  INFRASTRUCTURE   │      SECURITY       │
+├────────────────────┼───────────────────┼─────────────────────┤
+│ Frontend           │ Network           │ Authentication      │
+│ Backend            │ Operating System  │ Authorization       │
+│ API                │ Server            │ Access Control      │
+│ Database           │ Services          │ Hardening           │
+│ Architecture       │ Monitoring        │ Auditing            │
+└────────────────────┴───────────────────┴─────────────────────┘
 ```
 
-> El objetivo no es solamente hacer que el código funcione. También debe ser claro, mantenible y capaz de evolucionar.
+> No me interesa únicamente que una aplicación funcione. También debe estar correctamente estructurada, desplegada, conectada, administrada y protegida.
 
 ---
 
-## 🎯 Current objectives
+# 💻 Full Stack Development
 
-```text
-[████████████████░░░░] Java
-[██████████████░░░░░░] Object-Oriented Programming
-[████████████░░░░░░░░] Git and GitHub
-[██████████░░░░░░░░░░] Web Development
-[████████░░░░░░░░░░░░] Software Architecture
-```
-
-Actualmente estoy enfocado en:
-
-- Fortalecer mis fundamentos de programación.
-- Aplicar correctamente la programación orientada a objetos.
-- Mejorar la estructura y legibilidad de mis proyectos.
-- Aprender patrones y buenas prácticas de desarrollo.
-- Crear proyectos que demuestren mis habilidades.
-- Documentar correctamente mi proceso de aprendizaje.
-- Mejorar el uso de Git y GitHub.
-
----
-
-## 🛠️ Technology stack
-
-### Languages
+## MERN Stack
 
 <div align="center">
 
 <img
-  src="https://skillicons.dev/icons?i=java,js,html,css&theme=dark"
-  alt="Programming languages"
+  src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs&theme=dark"
+  alt="MERN Stack"
+/>
+
+<br>
+
+**MongoDB · Express.js · React · Node.js**
+
+</div>
+
+El stack MERN me permite desarrollar aplicaciones usando JavaScript en las diferentes capas de la solución:
+
+- Interfaces dinámicas con React.
+- APIs y lógica de negocio con Node.js y Express.js.
+- Persistencia de información con MongoDB.
+- Autenticación y autorización.
+- Operaciones CRUD.
+- Consumo y desarrollo de APIs REST.
+- Separación entre frontend y backend.
+- Gestión de estados y componentes.
+- Manejo de rutas, controladores y servicios.
+
+---
+
+## MEAN Stack
+
+<div align="center">
+
+<img
+  src="https://skillicons.dev/icons?i=mongodb,express,angular,nodejs&theme=dark"
+  alt="MEAN Stack"
+/>
+
+<br>
+
+**MongoDB · Express.js · Angular · Node.js**
+
+</div>
+
+También desarrollo soluciones mediante el stack MEAN:
+
+- Aplicaciones estructuradas con Angular.
+- Componentes, servicios y módulos.
+- Programación con TypeScript.
+- Formularios y validaciones.
+- Comunicación con APIs REST.
+- Backend con Node.js y Express.js.
+- Persistencia de información en MongoDB.
+- Organización modular del proyecto.
+
+---
+
+## Development stack
+
+### Frontend
+
+<div align="center">
+
+<img
+  src="https://skillicons.dev/icons?i=react,angular,js,ts,html,css,bootstrap&theme=dark"
+  alt="Frontend technologies"
+/>
+
+</div>
+
+### Backend
+
+<div align="center">
+
+<img
+  src="https://skillicons.dev/icons?i=nodejs,express,java,spring,python&theme=dark"
+  alt="Backend technologies"
+/>
+
+</div>
+
+### Databases
+
+<div align="center">
+
+<img
+  src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark"
+  alt="Database technologies"
 />
 
 </div>
@@ -158,59 +284,8 @@ Actualmente estoy enfocado en:
 <div align="center">
 
 <img
-  src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman&theme=dark"
+  src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,npm&theme=dark"
   alt="Development tools"
-/>
-
-</div>
-
-### Operating systems and environments
-
-<div align="center">
-
-<img
-  src="https://skillicons.dev/icons?i=linux,windows&theme=dark"
-  alt="Operating systems"
-/>
-
-</div>
-
----
-
-## 🧩 Skills in development
-
-<div align="center">
-
-<img
-  src="https://img.shields.io/badge/Java-Object--Oriented_Programming-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"
-  alt="Java"
-/>
-
-<img
-  src="https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white"
-  alt="Git"
-/>
-
-<img
-  src="https://img.shields.io/badge/GitHub-Code_Collaboration-181717?style=for-the-badge&logo=github&logoColor=white"
-  alt="GitHub"
-/>
-
-<br>
-
-<img
-  src="https://img.shields.io/badge/HTML5-Web_Structure-E34F26?style=for-the-badge&logo=html5&logoColor=white"
-  alt="HTML5"
-/>
-
-<img
-  src="https://img.shields.io/badge/CSS3-Web_Design-1572B6?style=for-the-badge&logo=css3&logoColor=white"
-  alt="CSS3"
-/>
-
-<img
-  src="https://img.shields.io/badge/JavaScript-Web_Logic-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
-  alt="JavaScript"
 />
 
 </div>
@@ -219,147 +294,516 @@ Actualmente estoy enfocado en:
 
 ## 🧬 Developer profile
 
-```java
-public final class JoseLuis {
-
-    private final String name;
-    private final String username;
-    private final String role;
-    private final String[] interests;
-    private final String[] currentGoals;
-
-    public JoseLuis() {
+```javascript
+class JoseLuis {
+    constructor() {
         this.name = "Jose Luis Rodriguez Navarro";
         this.username = "Josepfazt";
-        this.role = "Software Developer";
+        this.role = "Full Stack Developer";
 
-        this.interests = new String[]{
-            "Software Development",
-            "Object-Oriented Programming",
-            "Web Development",
-            "Software Architecture",
-            "Clean Code"
+        this.development = {
+            stacks: ["MERN", "MEAN"],
+            frontend: [
+                "React",
+                "Angular",
+                "JavaScript",
+                "TypeScript",
+                "HTML",
+                "CSS"
+            ],
+            backend: [
+                "Node.js",
+                "Express.js",
+                "REST APIs",
+                "Java"
+            ],
+            databases: [
+                "MongoDB",
+                "MySQL",
+                "PostgreSQL"
+            ]
         };
 
-        this.currentGoals = new String[]{
-            "Improve my programming skills",
-            "Build complete software projects",
-            "Learn software architecture",
-            "Contribute to open-source projects",
-            "Grow as a professional developer"
+        this.infrastructure = {
+            networking: [
+                "CCNA Fundamentals",
+                "Routing",
+                "Switching",
+                "VLANs",
+                "Subnetting",
+                "NAT",
+                "ACLs"
+            ],
+            servers: [
+                "Windows Server",
+                "Linux Server",
+                "Active Directory",
+                "DNS",
+                "DHCP",
+                "IIS",
+                "Group Policy"
+            ]
+        };
+
+        this.security = [
+            "Network Security",
+            "Server Hardening",
+            "Identity Management",
+            "Access Control",
+            "Least Privilege",
+            "Security Best Practices"
+        ];
+    }
+
+    buildSolution(requirements) {
+        return {
+            analysis: this.analyze(requirements),
+            architecture: this.designArchitecture(requirements),
+            implementation: "Clean and maintainable code",
+            infrastructure: "Reliable server and network environment",
+            security: "Protection applied across every layer",
+            result: "Secure and scalable technology solution"
         };
     }
 
-    public String buildSolution(String problem) {
-        return String.format(
-            "Analyzing '%s', designing the solution and building clean code.",
-            problem
-        );
+    analyze(requirements) {
+        return `Analyzing: ${requirements}`;
     }
 
-    public void keepLearning() {
-        System.out.println(
-            "Learning, building and improving every day."
-        );
+    designArchitecture(requirements) {
+        return `Designing architecture for: ${requirements}`;
     }
 
-    public String getName() {
-        return name;
-    }
-
-    public String getUsername() {
-        return username;
-    }
-
-    public String getRole() {
-        return role;
+    keepLearning() {
+        return "Learn. Build. Test. Secure. Improve.";
     }
 }
+
+const joseLuis = new JoseLuis();
+
+console.log(
+    joseLuis.buildSolution("A complete Full Stack platform")
+);
 ```
 
 ---
 
-## 🏗️ How I approach development
+# 🌐 Networks and CCNA
+
+<div align="center">
+
+<img
+  src="https://img.shields.io/badge/Networking-CCNA_Fundamentals-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"
+  alt="CCNA"
+/>
+
+<img
+  src="https://img.shields.io/badge/TCP%2FIP-Network_Protocols-0284C7?style=for-the-badge&logo=protocolsdotio&logoColor=white"
+  alt="TCP IP"
+/>
+
+<img
+  src="https://img.shields.io/badge/IPv4%20%2F%20IPv6-Network_Addressing-0369A1?style=for-the-badge&logo=internetcomputer&logoColor=white"
+  alt="IPv4 and IPv6"
+/>
+
+</div>
+
+### Networking knowledge
+
+```yaml
+networking:
+  fundamentals:
+    - OSI Model
+    - TCP/IP Model
+    - Ethernet
+    - Network Topologies
+    - LAN and WAN
+
+  addressing:
+    - IPv4
+    - IPv6
+    - Subnetting
+    - VLSM
+    - Default Gateways
+
+  switching:
+    - MAC Address Tables
+    - VLANs
+    - Trunking
+    - Inter-VLAN Routing
+    - Spanning Tree Fundamentals
+
+  routing:
+    - Static Routing
+    - Default Routes
+    - Dynamic Routing Fundamentals
+    - Route Analysis
+
+  network_services:
+    - DNS
+    - DHCP
+    - NAT
+    - PAT
+    - NTP
+
+  security:
+    - Access Control Lists
+    - Port Security Fundamentals
+    - Network Segmentation
+    - Secure Remote Access
+
+  troubleshooting:
+    - Ping
+    - Traceroute
+    - IP Configuration
+    - Connectivity Analysis
+    - Protocol Diagnostics
+```
+
+---
+
+## 🗺️ Network architecture
+
+```mermaid
+flowchart TB
+    INTERNET((Internet))
+    FW[Router and Firewall]
+    SW[Managed Switch]
+
+    INTERNET --> FW
+    FW --> SW
+
+    SW --> VLAN10[VLAN 10 - Administration]
+    SW --> VLAN20[VLAN 20 - Developers]
+    SW --> VLAN30[VLAN 30 - Servers]
+    SW --> VLAN40[VLAN 40 - Guests]
+
+    VLAN30 --> WIN[Windows Server]
+    VLAN30 --> LIN[Linux Server]
+    VLAN30 --> WEB[Web Applications]
+    VLAN30 --> DB[(Databases)]
+
+    WIN --> AD[Active Directory]
+    WIN --> DNS[DNS]
+    WIN --> DHCP[DHCP]
+    WIN --> IIS[IIS]
+
+    LIN --> SSH[SSH]
+    LIN --> NGINX[Web Services]
+    LIN --> MON[Monitoring]
+```
+
+---
+
+# 🖥️ Systems and server administration
+
+## Operating systems
+
+<div align="centerkill in "${LINUX_SKILLS[@]}"; do
+    echo "[LINUX] $skill"
+done
+```
+
+Mis conocimientos de administración Linux incluyen:
+
+- Instalación y configuración del sistema.
+- Administración de usuarios y grupos.
+- Permisos de archivos y directorios.
+- Gestión de paquetes.
+- Procesos y servicios.
+- Configuración de red.
+- Acceso remoto mediante SSH.
+- Revisión de logs.
+- Automatización básica mediante Bash.
+- Configuración de servicios web.
+- Aplicación de buenas prácticas de seguridad.
+
+---
+
+## Windows Server
+
+<div align="center">
+
+https://img.shields.io/badge/Windows_Server-System_Administration-0078D4?style=for-the-badge&logo=windows&logoColor=white
+
+https://img.shields.io/badge/Active_Directory-Identity_Management-2563EB?style=for-the-badge&logo=microsoft&logoColor=white
+
+https://img.shields.io/badge/PowerShell-Automation-5391FE?style=for-the-badge&logo=powershell&logoColor=white
+
+</div>
+
+```yaml
+windows_server:
+  identity:
+    - Active Directory Domain Services
+    - Users and Groups
+    - Organizational Units
+    - Domain Management
+    - Authentication and Authorization
+
+  policies:
+    - Group Policy Objects
+    - Security Policies
+    - User Policies
+    - Computer Policies
+
+  network_services:
+    - DNS Server
+    - DHCP Server
+    - IP Address Assignment
+    - Name Resolution
+
+  web_services:
+    - Internet Information Services
+    - Website Deployment
+    - Application Pools
+    - Basic Web Server Administration
+
+  administration:
+    - Server Roles
+    - File and Folder Permissions
+    - Services
+    - Event Viewer
+    - PowerShell Fundamentals
+```
+
+---
+
+## 🏢 Active Directory structure
+
+```mermaid
+flowchart TB
+    DOMAIN[Company Domain]
+
+    DOMAIN --> ADM[Administration OU]
+    DOMAIN --> IT[IT Department OU]
+    DOMAIN --> DEV[Development OU]
+    DOMAIN --> USERS[General Users OU]
+    DOMAIN --> SERVERS[Servers OU]
+
+    ADM --> ADMG[Administration Groups]
+    IT --> ITG[Infrastructure Groups]
+    DEV --> DEVG[Development Groups]
+    USERS --> ACCOUNTS[User Accounts]
+    SERVERS --> DC[Domain Controller]
+    SERVERS --> WEB[Web Server]
+    SERVERS --> FILE[File Server]
+
+    DOMAIN --> GPO[Group Policies]
+    GPO --> SECURITY[Security Policies]
+    GPO --> PASSWORD[Password Policies]
+    GPO --> DEVICES[Device Policies]
+```
+
+---
+
+# 🔐 Cybersecurity
+
+<div align="center">
+
+https://img.shields.io/badge/Cybersecurity-Security_Mindset-DC2626?style=for-the-badge&logo=hackthebox&logoColor=white
+
+https://img.shields.io/badge/Server_Hardening-Defense_in_Depth-7F1D1D?style=for-the-badge&logo=linux&logoColor=white
+
+https://img.shields.io/badge/Access_Control-Least_Privilege-B91C1C?style=for-the-badge&logo=auth0&logoColor=white
+
+</div>
+
+### Security knowledge
+
+```yaml
+cybersecurity:
+  network_security:
+    - Network Segmentation
+    - Firewall Fundamentals
+    - Access Control Lists
+    - Secure Protocols
+    - Traffic Analysis Fundamentals
+
+  system_security:
+    - Windows Security
+    - Linux Security
+    - Server Hardening
+    - Service Management
+    - Patch Management Fundamentals
+
+  identity:
+    - Authentication
+    - Authorization
+    - Role-Based Access Control
+    - Least Privilege
+    - Password Policies
+    - Active Directory Security
+
+  application_security:
+    - Input Validation
+    - Secure Authentication
+    - Environment Variables
+    - Secret Management Fundamentals
+    - API Protection
+    - Error Handling
+
+  operational_security:
+    - Log Analysis
+    - Backup Awareness
+    - Security Monitoring
+    - Vulnerability Awareness
+    - Incident Response Fundamentals
+```
+
+---
+
+## 🛡️ Defense-in-depth approach
 
 ```mermaid
 flowchart LR
-    A[Idea] --> B[Analysis]
-    B --> C[Requirements]
-    C --> D[Design]
-    D --> E[Development]
-    E --> F[Testing]
-    F --> G[Documentation]
-    G --> H[Deployment]
-    H --> I[Continuous improvement]
+    USER[User] --> ID[Identity Security]
+    ID --> NET[Network Security]
+    NET --> HOST[Operating System Security]
+    HOST --> APP[Application Security]
+    APP --> DATA[Data Security]
+
+    ID --> MFA[Authentication and Permissions]
+    NET --> FW[Firewall and Segmentation]
+    HOST --> HARD[Hardening and Updates]
+    APP --> API[Validation and API Security]
+    DATA --> BACKUP[Access Control and Backups]
 ```
 
-Mi proceso de desarrollo busca mantener una estructura clara:
-
-1. Comprender el problema antes de escribir código.
-2. Identificar los requisitos principales.
-3. Dividir el problema en componentes más pequeños.
-4. Diseñar una solución comprensible.
-5. Escribir código limpio y organizado.
-6. Probar diferentes escenarios.
-7. Documentar las decisiones importantes.
-8. Mejorar la solución progresivamente.
+> La seguridad no debe agregarse únicamente al finalizar un proyecto. Debe considerarse desde el diseño de la aplicación, la infraestructura y la administración de identidades.
 
 ---
 
-## 📂 Featured projects
+# 🧪 Infrastructure and development lab
 
-### ☕ Object-Oriented Programming Practice
+```text
+                              INTERNET
+                                  │
+                                  ▼
+                      ┌───────────────────────┐
+                      │  ROUTER / FIREWALL    │
+                      │  NAT · ACL · SECURITY │
+                      └───────────┬───────────┘
+                                  │
+                                  ▼
+                      ┌───────────────────────┐
+                      │    MANAGED NETWORK    │
+                      │  VLAN · DNS · DHCP    │
+                      └─────┬─────────┬───────┘
+                            │         │
+              ┌─────────────┘         └─────────────┐
+              ▼                                     ▼
+┌──────────────────────────┐          ┌──────────────────────────┐
+│      WINDOWS SERVER      │          │       LINUX SERVER       │
+├──────────────────────────┤          ├──────────────────────────┤
+│ Active Directory         │          │ SSH                      │
+│ DNS                      │          │ Users and permissions    │
+│ DHCP                     │          │ Web services             │
+│ Group Policy             │          │ Process management       │
+│ IIS                      │          │ Logs and monitoring      │
+└────────────┬─────────────┘          └────────────┬─────────────┘
+             │                                     │
+             └──────────────────┬──────────────────┘
+                                ▼
+                  ┌───────────────────────────┐
+                  │  FULL STACK APPLICATIONS  │
+                  ├───────────────────────────┤
+                  │ MongoDB                   │
+                  │ Express.js                │
+                  │ React / Angular           │
+                  │ Node.js                   │
+                  │ REST APIs                 │
+                  └───────────────────────────┘
+```
+
+Este laboratorio representa la integración de mis diferentes áreas de conocimiento:
+
+1. Diseño y segmentación básica de la red.
+2. Configuración de servicios de infraestructura.
+3. Administración de identidades y permisos.
+4. Configuración de servidores Windows y Linux.
+5. Despliegue de aplicaciones y servicios.
+6. Aplicación de controles de seguridad.
+7. Diagnóstico y resolución de problemas.
+
+---
+
+# 🏗️ How I build solutions
+
+```mermaid
+flowchart LR
+    A[Requirements] --> B[Analysis]
+    B --> C[Architecture]
+    C --> D[Network Design]
+    D --> E[Server Setup]
+    E --> F[Development]
+    F --> G[Security]
+    G --> H[Testing]
+    H --> I[Deployment]
+    I --> J[Monitoring]
+    J --> K[Improvement]
+```
+
+```text
+01. Understand the business requirement
+02. Identify users, roles and permissions
+03. Design the application architecture
+04. Prepare the network and server environment
+05. Develop frontend, backend and database
+06. Apply security controls
+07. Test functionality and connectivity
+08. Deploy the application
+09. Monitor services and logs
+10. Improve the complete solution
+```
+
+---
+
+# 📂 Featured project
+
+## ☕ SS9 · Java and Object-Oriented Programming
 
 Repositorio dedicado a ejercicios y prácticas de programación orientada a objetos utilizando Java.
 
-<a href="https://github.com/Josepfazt/SS9">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=Josepfazt&repo=SS9&theme=github_dark&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&bg_color=0D1117"
-    alt="SS9 repository"
-  />
+<div align="center">
+
+<a href="https://github.com/Josepfazt">
+  https://github-readme-stats.vercel.app/api/pin/?username=Josepfazt&repo=SS9&theme=github_dark&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&bg_color=0D1117
 </a>
 
-**Conocimientos practicados:**
+</div>
+
+### Concepts applied
 
 - Clases y objetos.
 - Atributos y métodos.
 - Encapsulamiento.
 - Constructores.
+- Programación orientada a objetos.
 - Organización de código.
 - Fundamentos de Java.
-- Programación orientada a objetos.
+- Control de versiones con Git.
 
 ---
 
-## 📊 GitHub analytics
+# 📊 GitHub analytics
 
 <div align="center">
 
-<img
-  width="49%"
-  src="https://github-readme-stats.vercel.app/api?username=Josepfazt&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&bg_color=0D1117"
-  alt="Josepfazt GitHub statistics"
-/>
+https://github-readme-stats.vercel.app/api?username=Josepfazt&show_icons=true&hide_border=true&include_all_commits=true&theme=github_dark&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&bg_color=0D1117
 
-<img
-  width="41%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josepfazt&layout=compact&hide_border=true&langs_count=8&theme=github_dark&title_color=38BDF8&text_color=CBD5E1&bg_color=0D1117"
-  alt="Most used languages"
-/>
+https://github-readme-stats.vercel.app/api/top-langs/?username=Josepfazt&layout=compact&hide_border=true&langs_count=8&theme=github_dark&title_color=38BDF8&text_color=CBD5E1&bg_color=0D1117
 
 </div>
 
-> Las estadísticas de lenguajes representan la composición de los repositorios públicos y no determinan por sí solas el nivel de conocimiento de una tecnología.
+> Las estadísticas muestran la composición de los repositorios públicos y no representan por sí solas el nivel de dominio de una tecnología.
 
 <br>
 
 <div align="center">
 
-<img
-  width="95%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Josepfazt&theme=github_dark"
-  alt="GitHub profile summary"
-/>
+https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Josepfazt&theme=github_dark
 
 </div>
 
@@ -369,133 +813,144 @@ Repositorio dedicado a ejercicios y prácticas de programación orientada a obje
 
 <div align="center">
 
-<img
-  width="49%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Josepfazt&theme=github_dark"
-  alt="GitHub statistics card"
-/>
+https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Josepfazt&theme=github_dark
 
-<img
-  width="49%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Josepfazt&theme=github_dark&utcOffset=-5"
-  alt="Productive time"
-/>
+https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Josepfazt&theme=github_dark&utcOffset=-5
 
 </div>
 
 ---
 
-## 🐍 Contribution activity
+# 🐍 Contribution activity
 
 <div align="center">
 
-<img
-  src="https://raw.githubusercontent.com/Josepfazt/Josepfazt/output/github-contribution-grid-snake-dark.svg"
-  alt="Contribution snake animation"
-/>
+https://raw.githubusercontent.com/Josepfazt/Josepfazt/output/github-contribution-grid-snake-dark.svg
 
 </div>
 
-> La animación aparecerá después de instalar y ejecutar el workflow incluido al final de esta guía.
+> La animación aparecerá después de instalar y ejecutar el workflow ubicado al final de este documento.
 
 ---
 
-## 🗺️ Learning roadmap
+# 🗺️ Professional roadmap
 
 ```mermaid
 mindmap
   root((Jose Luis))
-    Programming
-      Java
-      Object-Oriented Programming
-      Algorithms
-      Data Structures
-    Web Development
-      HTML
-      CSS
-      JavaScript
-      APIs
-    Software Engineering
-      Clean Code
-      Design Patterns
-      Testing
-      Documentation
-    Tools
-      Git
-      GitHub
-      Linux
-      Postman
-    Future
-      Backend Development
-      Databases
-      Cloud
-      Software Architecture
+    Full Stack
+      MERN
+        MongoDB
+        Express
+        React
+        Node
+      MEAN
+        MongoDB
+        Express
+        Angular
+        Node
+      REST APIs
+      Architecture
+
+    Networking
+      CCNA
+      Routing
+      Switching
+      VLANs
+      Subnetting
+      ACLs
+      NAT
+
+    Systems
+      Windows Server
+        Active Directory
+        Group Policy
+        DNS
+        DHCP
+        IIS
+      Linux Server
+        Bash
+        SSH
+        Permissions
+        Services
+        Monitoring
+
+    Cybersecurity
+      Network Security
+      Server Hardening
+      Access Control
+      Identity Security
+      Application Security
 ```
 
 ---
 
-## 📚 Currently learning
+# 🎯 Current objectives
 
-```javascript
-const currentLearning = {
-    programming: [
-        "Java",
-        "Object-Oriented Programming",
-        "Algorithms",
-        "Data Structures"
-    ],
-
-    webDevelopment: [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "REST APIs"
-    ],
-
-    softwareEngineering: [
-        "Clean Code",
-        "Design Patterns",
-        "Software Architecture",
-        "Testing"
-    ],
-
-    tools: [
-        "Git",
-        "GitHub",
-        "Linux",
-        "Postman"
-    ]
-};
-
-const nextGoal = () => {
-    return "Transform knowledge into complete software projects.";
-};
-
-console.log(nextGoal());
+```text
+FULL STACK DEVELOPMENT       [████████████████░░░░]
+MERN AND MEAN                [███████████████░░░░░]
+NETWORKING AND CCNA          [██████████████░░░░░░]
+WINDOWS SERVER               [█████████████░░░░░░░]
+LINUX ADMINISTRATION         [█████████████░░░░░░░]
+CYBERSECURITY                [████████████░░░░░░░░]
+CLOUD AND DEVOPS             [████████░░░░░░░░░░░░]
 ```
+
+Actualmente continúo desarrollando mis conocimientos en:
+
+- Arquitectura de aplicaciones Full Stack.
+- Desarrollo avanzado con MERN y MEAN.
+- Seguridad de APIs y aplicaciones web.
+- Administración de Windows Server.
+- Automatización con PowerShell.
+- Administración y seguridad de servidores Linux.
+- Diseño y diagnóstico de redes.
+- Fundamentos y prácticas de ciberseguridad.
+- Contenedores y despliegue de aplicaciones.
+- Cloud computing y DevOps.
 
 ---
 
-## 🤝 Let's connect
+# 🤝 Let's connect
 
 Estoy abierto a:
 
-- Colaborar en proyectos académicos.
-- Participar en proyectos de software.
-- Aprender junto con otros desarrolladores.
-- Intercambiar conocimientos y experiencias.
-- Contribuir a proyectos open source.
-- Conocer nuevas oportunidades tecnológicas.
+- Colaborar en proyectos Full Stack.
+- Participar en proyectos académicos y profesionales.
+- Desarrollar aplicaciones con MERN y MEAN.
+- Participar en laboratorios de redes y servidores.
+- Colaborar en proyectos de infraestructura tecnológica.
+- Aprender junto con otros desarrolladores y profesionales de TI.
+- Contribuir a proyectos de código abierto.
+- Intercambiar conocimientos sobre desarrollo, redes y seguridad.
 
 <div align="center">
 
 <a href="https://github.com/Josepfazt">
-  <img
-    src="https://img.shields.io/badge/Follow_me_on_GitHub-020617?style=for-the-badge&logo=github&logoColor=38BDF8"
-    alt="Follow on GitHub"
-  />
+  https://img.shields.io/badge/Follow_me_on_GitHub-020617?style=for-the-badge&logo=github&logoColor=38BDF8
 </a>
 
-<a href="mailto:TU_CORREO_AQUI">
-  <img
-    src="https://img.shields.io/badge/Contact
+TU_CORREO_AQUI
+  https://img.shields.io/badge/Contact_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white
+</a>
+
+TU_LINKEDIN_AQUI
+  https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### `Code the application. Build the infrastructure. Secure the solution.`
+
+**Desarrollo el software, comprendo la infraestructura y protejo la solución.**
+
+<br>
+
+https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0284C7,55:0F172A,100:020617&section=footer
+
+</div>
