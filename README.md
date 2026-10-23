@@ -10,41 +10,45 @@
 
 <div align="center">
 
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:020617,45:0F172A,100:0284C7&text=Jose%20Luis%20Rodriguez%20Navarro&fontColor=F8FAFC&fontSize=34&fontAlignY=35&desc=Full%20Stack%20Developer%20%E2%80%A2%20Networks%20%E2%80%A2%20Systems%20%E2%80%A2%20Cybersecurity&descAlignY=58&descSize=16&animation=fadeIn"
-  alt="Jose Luis Rodriguez Navarro"
-/>
-
-<a href="https://github.com/DenverCoder1/readme-typing-svg">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&random=false&width=900&height=70&lines=Full+Stack+Developer;MERN+%26+MEAN+Stack;Network+Infrastructure+%26+CCNA;Windows+%26+Linux+Server+Administration;Active+Directory+%7C+DNS+%7C+DHCP+%7C+IIS;Cybersecurity+%26+Systems+Management;Building+secure+and+scalable+solutions"
-    alt="Typing SVG"
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:020617,45:0F172A,100:0284C7&text=Jose%20Luis%20Rodriguez%20Navarro&fontColor=F8FAFC&fontSize=34&fontAlignY=35&desc=Full%20Stack%20Developer%20%E2%80%A2%20Networks%20%E2%80%A2%20Systems%20%E2%80%A2%20Cybersecurity&descAlignY=58&descSize=16&animation=fadeIn"
+    alt="Jose Luis Rodriguez Navarro"
   />
-</a>
 
-<br>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&random=false&width=900&height=70&lines=Full+Stack+Developer;MERN+%26+MEAN+Stack;Network+Infrastructure+%26+CCNA;Windows+%26+Linux+Server+Administration;Active+Directory+%7C+DNS+%7C+DHCP+%7C+IIS;Cybersecurity+%26+Systems+Management;Building+secure+and+scalable+solutions"
+      alt="Presentación profesional animada"
+    />
+  </a>
 
-<a href="https://github.com/Josepfazt">
-  <img
-    src="https://img.shields.io/badge/GitHub-Josepfazt-020617?style=for-the-badge&logo=github&logoColor=38BDF8"
-    alt="GitHub"
+  <br>
+
+  <!-- Botón de GitHub -->
+  <a href="https://github.com/Josepfazt">
+    <img
+      src="https://img.shields.io/badge/GitHub-Josepfazt-020617?style=for-the-badge&logo=github&logoColor=38BDF8"
+      alt="Perfil de GitHub"
+    />
+  </a>
+
+  <!-- Botón de correo -->
+  <a href="mailto:jazzRN1321@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-Contact_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Correo electrónico"
+    />
+  </a>
+
+  <br><br>
+
+  <!-- Contador de visitas -->
+   <img
+    src="./presentacion.gif"
+    width="700"
+    alt="Presentación visual de Jose Luis Rodriguez Navarro"
   />
-</a>
-
-<a href="mailto:jazzRN1321@gmail.com">
-  <img
-    src="https://img.shields.io/badge/Email-Contact_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="Email"
-  />
-</a>
-
-<br><br>
-
-<img
-  src="https://komarev.com/ghpvc/?username=Josepfazt&label=Profile%20views&color=0284C7&style=flat"
-  alt="Profile views"
-/>
 
 </div>
 
