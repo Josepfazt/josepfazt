@@ -923,19 +923,23 @@ Estoy abierto a:
 
 <div align="center">
 
-<a href="https://github.com/Josepfazt">
-  <img src="https://img.shields.io/badge/Follow_me_on_GitHub-020617?style=for-the-badge&logo=github&logoColor=38BDF8" />
-</a>
+  <!-- Enlace a GitHub -->
+  <a href="https://github.com/Josepfazt" target="_blank">
+    <img src="https://img.shields.io/badge/Follow_me_on_GitHub-020617?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub" />
+  </a>
 
-TU_CORREO_AQUI
-<img src="[https://shields.io](https://img.shields.io/badge/Contact_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)" />
-</a>
+  <!-- Enlace a Correo (Gmail) -->
+  <a href="mailto:jazzRN1231@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Contact_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 
-TU_LINKEDIN_AQUI
-<img src="[https://shields.io](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)" />
-</a>
+  <!-- Enlace a LinkedIn -->
+  <a href="www.linkedin.com/in/jose-luis-rodríguez-navarro-43981b211" target="_blank">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 
 </div>
+
 
 <br>
 
