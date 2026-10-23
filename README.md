@@ -527,11 +527,9 @@ Mis conocimientos de administración Linux incluyen:
 
 <div align="center">
 
-https://img.shields.io/badge/Windows_Server-System_Administration-0078D4?style=for-the-badge&logo=windows&logoColor=white
-
-https://img.shields.io/badge/Active_Directory-Identity_Management-2563EB?style=for-the-badge&logo=microsoft&logoColor=white
-
-https://img.shields.io/badge/PowerShell-Automation-5391FE?style=for-the-badge&logo=powershell&logoColor=white
+  <img src="https://img.shields.io/badge/Windows_Server-System_Administration-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Active_Directory-Identity_Management-2563EB?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="[https://shields.io](https://img.shields.io/badge/PowerShell-Automation-5391FE?style=for-the-badge&logo=powershell&logoColor=white)" />
 
 </div>
 
@@ -769,7 +767,8 @@ Repositorio dedicado a ejercicios y prácticas de programación orientada a obje
 <div align="center">
 
 <a href="https://github.com/Josepfazt">
-  https://github-readme-stats.vercel.app/api/pin/?username=Josepfazt&repo=SS9&theme=github_dark&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&bg_color=0D1117
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Josepfazt&repo=SS9&theme=github_dark&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&bg_color=0D1117" />
+  
 </a>
 
 </div>
@@ -790,10 +789,9 @@ Repositorio dedicado a ejercicios y prácticas de programación orientada a obje
 # 📊 GitHub analytics
 
 <div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Josepfazt&show_icons=true&hide_border=true&include_all_commits=true&theme=github_dark&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&bg_color=0D1117" />
 
-https://github-readme-stats.vercel.app/api?username=Josepfazt&show_icons=true&hide_border=true&include_all_commits=true&theme=github_dark&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&bg_color=0D1117
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=Josepfazt&layout=compact&hide_border=true&langs_count=8&theme=github_dark&title_color=38BDF8&text_color=CBD5E1&bg_color=0D1117
+<img src="[https://shields.io](https://github-readme-stats.vercel.app/api/top-langs/?username=Josepfazt&layout=compact&hide_border=true&langs_count=8&theme=github_dark&title_color=38BDF8&text_color=CBD5E1&bg_color=0D1117)" />
 
 </div>
 
@@ -802,8 +800,7 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=Josepfazt&layout=
 <br>
 
 <div align="center">
-
-https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Josepfazt&theme=github_dark
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Josepfazt&theme=github_dark" />
 
 </div>
 
@@ -812,10 +809,9 @@ https://github-profile-summary-cards.vercel.app/api/cards/profile-details?userna
 ## 📈 Activity overview
 
 <div align="center">
+<img src="[https://shields.io](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Josepfazt&theme=github_dark)" />
 
-https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Josepfazt&theme=github_dark
-
-https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Josepfazt&theme=github_dark&utcOffset=-5
+<img src="[https://shields.io](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Josepfazt&theme=github_dark&utcOffset=-5)" />
 
 </div>
 
@@ -824,8 +820,9 @@ https://github-profile-summary-cards.vercel.app/api/cards/productive-time?userna
 # 🐍 Contribution activity
 
 <div align="center">
+  
+<img src="[https://shields.io](https://raw.githubusercontent.com/Josepfazt/Josepfazt/output/github-contribution-grid-snake-dark.svg)" />
 
-https://raw.githubusercontent.com/Josepfazt/Josepfazt/output/github-contribution-grid-snake-dark.svg
 
 </div>
 
@@ -928,15 +925,15 @@ Estoy abierto a:
 <div align="center">
 
 <a href="https://github.com/Josepfazt">
-  https://img.shields.io/badge/Follow_me_on_GitHub-020617?style=for-the-badge&logo=github&logoColor=38BDF8
+  <img src="https://img.shields.io/badge/Follow_me_on_GitHub-020617?style=for-the-badge&logo=github&logoColor=38BDF8" />
 </a>
 
 TU_CORREO_AQUI
-  https://img.shields.io/badge/Contact_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white
+<img src="[https://shields.io](https://img.shields.io/badge/Contact_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)" />
 </a>
 
 TU_LINKEDIN_AQUI
-  https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
+<img src="[https://shields.io](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)" />
 </a>
 
 </div>
@@ -950,7 +947,5 @@ TU_LINKEDIN_AQUI
 **Desarrollo el software, comprendo la infraestructura y protejo la solución.**
 
 <br>
-
-https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0284C7,55:0F172A,100:020617&section=footer
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0284C7,55:0F172A,100:020617&section=footer" />
 </div>
