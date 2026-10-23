@@ -32,14 +32,14 @@
   />
 </a>
 
-<a href="mailto:TU_CORREO_AQUI">
+<a href="mailto:jazzRN1321@gmail.com">
   <img
     src="https://img.shields.io/badge/Email-Contact_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
     alt="Email"
   />
 </a>
 
-<a href="TU_LINKEDIN_AQUI">
+<a href="www.linkedin.com/in/jose-luis-rodríguez-navarro-43981b211">
   <img
     src="https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
     alt="LinkedIn"
